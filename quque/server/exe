@@ -1,0 +1,8 @@
+#!/bin/bash
+rm lib/libIPC_Send.so
+mkdir build
+cd build
+rm -rf *
+cmake ..
+make
+./server
