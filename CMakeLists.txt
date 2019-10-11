@@ -29,6 +29,6 @@ SET(DIR_SRCS ${source_src})
 ADD_LIBRARY(${PROJECT_NAME} SHARED ${DIR_SRCS} )
 
 #生成可执行文件
-find_package( Threads )#加入线程时需要此命令
+find_package( Threads )		#加入线程时需要此命令
 add_executable(client ${DIR_SRCS} ${CMAKE_CURRENT_LIST_DIR_EDGE} )
-target_link_libraries( client ${CMAKE_THREAD_LIBS_INIT} )#加入线程时需要此命令
+target_link_libraries( client ${CMAKE_THREAD_LIBS_INIT} )	#加入线程时需要此命令
