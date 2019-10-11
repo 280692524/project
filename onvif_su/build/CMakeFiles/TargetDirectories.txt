@@ -1,0 +1,3 @@
+/mnt/onvif_su/build/CMakeFiles/rebuild_cache.dir
+/mnt/onvif_su/build/CMakeFiles/edit_cache.dir
+/mnt/onvif_su/build/CMakeFiles/onvif_su.dir
