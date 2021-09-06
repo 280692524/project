@@ -1,4 +1,0 @@
-/mnt/work/quque/server/build/CMakeFiles/rebuild_cache.dir
-/mnt/work/quque/server/build/CMakeFiles/edit_cache.dir
-/mnt/work/quque/server/build/CMakeFiles/server.dir
-/mnt/work/quque/server/build/CMakeFiles/IPC_Send.dir

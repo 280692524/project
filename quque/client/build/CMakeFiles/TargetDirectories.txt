@@ -1,4 +1,0 @@
-/mnt/work/quque/client/build/CMakeFiles/edit_cache.dir
-/mnt/work/quque/client/build/CMakeFiles/client.dir
-/mnt/work/quque/client/build/CMakeFiles/rebuild_cache.dir
-/mnt/work/quque/client/build/CMakeFiles/IPC_Recv.dir

@@ -1,8 +1,0 @@
-#!/bin/bash
-rm lib/libIPC_Recv.so
-mkdir build
-cd build
-rm -rf *
-cmake ..
-make
-./client
